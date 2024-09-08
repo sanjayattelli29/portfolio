@@ -40,4 +40,24 @@
     -->
 </body>
 
+
+<script>
+    window.embeddedChatbotConfig = {
+        chatbotId: "KgSXhsyWXTa8PsnHpnZl3",
+        domain: "www.chatbase.co"
+    }
+</script>
+
+<script src="https://www.chatbase.co/embed.min.js" chatbotId="KgSXhsyWXTa8PsnHpnZl3" domain="www.chatbase.co" defer></script>
+
+<script>
+    // Apply the animation to the chatbot after it's loaded
+    window.addEventListener('load', function() {
+        const chatbotElement = document.querySelector('[chatbotId="KgSXhsyWXTa8PsnHpnZl3"]');
+        if (chatbotElement) {
+            chatbotElement.classList.add('chatbot-icon');
+        }
+    });
+</script>
+
 </html>

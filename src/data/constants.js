@@ -2,12 +2,12 @@ export const Bio = {
   name: "Sanjay Kumar",
   roles: [
     "UI/UX Designer",
-    "Graphic Designer",
+    "Frontend Developer",
     "Product Designer",
-    "Video Editor",
+    "SDE Developer",
   ],
   description:
-"I am a creative professional committed to quality and innovation. With a passion for UI/UX, graphic design, product design, and video editing, I strive to deliver exceptional results and make a positive impact."
+  "Frontend Developer | Full Stack Developer | Data Structures & Algorithms Enthusiast 📊💻 | Building seamless and responsive digital experiences 🌐✨ | Passionate about solving problems through clean code and innovative solutions 💡🚀"
     ,
   github: "https://www.behance.net/attellisanjay/",
   resume:
@@ -65,42 +65,57 @@ export const skills = [
     ],
   },
   {
-    title: "Editing ",
+    title: "Languages",
     skills: [
       {
-        name: "Premiere Pro",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/180px-Adobe_Premiere_Pro_CC_icon.svg.png",
-      },
-      {
-        name: "Final Cut Pro",
-        image: "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/2015_Final_Cut_Pro_Logo.png/180px-2015_Final_Cut_Pro_Logo.png",
-      },
-      {
-        name: "After Effects",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/180px-Adobe_After_Effects_CC_icon.svg.png",
-      },
-      {
-        name: "DaVinci Resolve",
+        name: "Python",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/180px-DaVinci_Resolve_Studio.png",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
-        name: "Avid Media Composer",
+        name: "Tenserflow",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Media_Composer_Video_Editor_Software.jpg/180px-Media_Composer_Video_Editor_Software.jpg",
+          "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
       },
       {
-        name: "Filmora",
-        image: "https://downloadr2.apkmirror.com/wp-content/uploads/2023/02/21/63ecaf917e62d.png",
-      },
-      {
-        name: "HitFilm Express",
+        name: "Html",
         image:
-          "https://img.icons8.com/?size=512&id=gzPYPsH3mwvu&format=png",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png",
       },
       {
-        name: "iMovie",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IMovie_Icon_iOS.jpg/480px-IMovie_Icon_iOS.jpg",
+        name: "CSS",
+        image:
+          "https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-programming-langugae-language-pack-logos-icons-1175237.png",
+      },
+      {
+        name: "Jupyter",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
+      },
+      {
+        name: "Webflow ",
+        image:
+          "https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/651f24a499bc8356ba844e0c_Webflow-Logo.svg",
+      },
+      {
+        name: "Google Colab",
+        image:
+          "https://mikaelahonen.com/img/google-colab.png",
+      },
+      {
+        name: "JavaScript",
+        image:
+          "https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png",
+      },
+      {
+        name: "ReactJS",
+        image:
+          "https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256",
+      },
+      {
+        name: "C++",
+        image:
+          "https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png",
       },
     ],
   },
@@ -188,41 +203,7 @@ export const skills = [
       },
     ],
   },
-  {
-    title: "Languages",
-    skills: [
-      {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      },
-      {
-        name: "Tenserflow",
-        image:
-          "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
-      },
-      {
-        name: "Html",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png",
-      },
-      {
-        name: "Jupyter",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
-      },
-      {
-        name: "Google Colab",
-        image:
-          "https://mikaelahonen.com/img/google-colab.png",
-      },
-      {
-        name: "JavaScript",
-        image:
-          "https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png",
-      },
-    ],
-  },
+ 
   {
     title: "Others",
     skills: [
@@ -263,23 +244,57 @@ export const skills = [
       },
     ],
   },
+  {
+    title: "Editing ",
+    skills: [
+      {
+        name: "Premiere Pro",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/180px-Adobe_Premiere_Pro_CC_icon.svg.png",
+      },
+      {
+        name: "Final Cut Pro",
+        image: "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/2015_Final_Cut_Pro_Logo.png/180px-2015_Final_Cut_Pro_Logo.png",
+      },
+      {
+        name: "After Effects",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/180px-Adobe_After_Effects_CC_icon.svg.png",
+      },
+      {
+        name: "DaVinci Resolve",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/180px-DaVinci_Resolve_Studio.png",
+      },
+      
+      {
+        name: "Filmora",
+        image: "https://downloadr2.apkmirror.com/wp-content/uploads/2023/02/21/63ecaf917e62d.png",
+      },
+      {
+        name: "HitFilm Express",
+        image:
+          "https://img.icons8.com/?size=512&id=gzPYPsH3mwvu&format=png",
+      },
+    ],
+  },
+  
+  
 ];
 
 export const experiences = [
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Web Designer",
+    role: "Frontend Web Developer",
     company: "Flipr",
     date: "September 2024 - Present",
-    desc: "Flipr is a creative studio specializing in UI/UX, graphic design, product design, and video editing. We transform ideas into impactful visual experiences, consistently pushing the boundaries of innovation and excellence.",
+    desc: "Flipr is a creative studio that specializes in Frontend Development and Data Structures (DS), transforming ideas into dynamic and responsive web applications while building efficient algorithms. We focus on delivering seamless user experiences backed by optimized data management.",
     skills: [
       "Web Design",
-      "Typography",
-      "User Experience (UX)",
+      "HTML/CSS",
+      "React.js / Angular.js",
       "User Interface Design",
       "Figma (Software)",
-      "Graphic Design",
+      "JavaScript",
     ],
     refLink:"https://flipr.ai/"
     /*doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",*/
@@ -287,18 +302,18 @@ export const experiences = [
   {
     id: 1,
     img: "https://media.licdn.com/dms/image/v2/D560BAQGeowC4xiIPkw/company-logo_200_200/company-logo_200_200/0/1690720091257/jacinthpaulbusinessteam_logo?e=1733356800&v=beta&t=fOT6OqEklU8X_fjxlzJP3OpEjqMpjEYUzerLtiiJdoE",
-    role: "Web Designer Intern",
+    role: "Frontend Developer Intern",
     company: "Jacinth Paul Business Technologies Private Limited",
     date: "June 2024 - August 2024",
-    desc: "Jacinth Paul Business Technologies Private Limited is a leader in innovative design and technology solutions. We excel in UI/UX, graphic design, product design, and video editing, turning concepts into impactful digital experiences that drive success and innovation.",
+    desc: "Jacinth Paul Business Technologies Private Limited is a leader in Frontend Development and Data Structures, delivering cutting-edge digital solutions that combine creative design with technical excellence. We specialize in building responsive interfaces.",
     skills: [
-      "Web Design",
+      "HTML/CSS",
       "User Interface Design",
-      "Figma (Software)",
+      "JavaScript Frameworks (React, Vue)",
       "Graphic Design",
-      "Typography",
+      "Algorithm Optimization",
       "User Experience (UX)",
-      "Search Engine Optimization (SEO)",
+      "Frontend Performance Optimization",
     ],
     refLink:"https://business.jacinthpaul.com/",
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
@@ -309,7 +324,7 @@ export const experiences = [
     role: "User Interface Designer",
     company: "Aspireup ",
     date: "June 2024 - August 2024",
-    desc: "Aspireup is a dynamic and innovative company dedicated to delivering exceptional results in UI/UX design, graphic design, product design, and video editing. Our commitment to quality and creativity drives us to push boundaries and create impactful solutions that resonate with our clients and their audiences. At Aspireup, we believe in the power of design and storytelling to elevate brands and bring visions to life.",
+    desc: "Aspireup is a dynamic and innovative company dedicated to delivering exceptional results in UI/UX design, graphic design, product design, and video editing. Our commitment to quality and creativity drives us to push boundaries and create impactful solutions that resonate with our clients and their audiences.  ",
     skills: [
       "Adobe Illustrator ",
       "Adobe Photoshop",

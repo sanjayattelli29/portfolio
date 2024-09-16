@@ -1,0 +1,4 @@
+npm run build
+ git add .
+git commit -m"chatbot integrated"
+git push origin master
